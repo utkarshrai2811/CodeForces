@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
+//typedef long long int ll;
+//typedef unsigned long long int ull;
 int main() {
 	int n, m;
 	string s[20], t[20];
