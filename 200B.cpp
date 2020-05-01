@@ -6,7 +6,7 @@ int main() {
 	int n, pi;
     cin >> n;
     double sum = 0.0;
-    for (int i = 0; i < n; ++i) {
+    for(int i = 0; i < n; ++i) {
         cin >> pi;
         sum += pi;
     }
